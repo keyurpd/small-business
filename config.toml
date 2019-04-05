@@ -20,7 +20,7 @@ theme = "timer"
     [[menu.nav]]
         name    = "Gallery"
         url     = "/contact"
-        weight  = 4
+        weight  = 5
     [[menu.nav]]
         name    = "Blog"
         url     = "/blog"
