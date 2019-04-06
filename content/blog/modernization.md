@@ -1,6 +1,6 @@
 ---
 title: "Modernization and Large Old Enterprises"
-date: 2018-08-04T19:52:12-04:00
+date: 2018-08-11
 draft: false
 author: Knight
 tags: ["modernization"]

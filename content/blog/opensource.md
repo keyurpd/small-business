@@ -1,6 +1,6 @@
 ---
 title: "Giving it back to open source community"
-date: 2019-04-04T19:52:23-04:00
+date: 2018-11-17
 draft: false
 author: Knight
 tags: ["open source"]
