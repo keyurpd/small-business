@@ -8,6 +8,7 @@ tags: ["open source"]
 
 It's thanksgiving time of the year! My current onsite workplace arranged for donations, food baskets, volunteering services for communities of the society.
 
+
 There is another community though, the open-source community, that is sometimes under appreciated. Even the large organizations that traditionally stayed away from open-source, have started adopting it. And although it comes with some form of legal terms and conditions, it is free otherwise.
 
 I have used open-source software for some of the projects over course of my work. So many times I have thought about how to give back to this community. The ultimate contribution would be writing an open-source product, or library, yourself of course.
